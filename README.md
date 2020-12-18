@@ -1,1 +1,2 @@
-# FridgeAppRator Project still in progress but you can safely pull master and test it 
+# FridgeAppRator Project still in progress
+you can test the project but its still missing 2 functionalities: multiple shopping lists, and shopping list item check isnt working properly atm.
